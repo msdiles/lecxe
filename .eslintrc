@@ -12,7 +12,8 @@
     "comma-dangle": "off",
     "require-jsdoc": "off",
     "no-debugger": "off",
-    "indent": "off"
+    "indent": "off",
+    "max-len": "off"
   },
   "extends": [
     "eslint:recommended",
